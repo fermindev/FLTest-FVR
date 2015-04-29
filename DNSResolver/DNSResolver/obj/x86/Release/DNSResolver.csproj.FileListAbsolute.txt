@@ -1,0 +1,3 @@
+C:\FLTest-FVR\DNSResolver\DNSResolver\bin\Release\query.txt
+C:\FLTest-FVR\DNSResolver\DNSResolver\bin\Release\DNSResolver.exe
+C:\FLTest-FVR\DNSResolver\DNSResolver\obj\x86\Release\DNSResolver.exe
