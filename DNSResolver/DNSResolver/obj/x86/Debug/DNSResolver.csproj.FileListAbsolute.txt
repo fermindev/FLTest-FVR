@@ -1,0 +1,4 @@
+C:\FLTest-FVR\DNSResolver\DNSResolver\bin\Debug\DNSResolver.exe
+C:\FLTest-FVR\DNSResolver\DNSResolver\bin\Debug\DNSResolver.pdb
+C:\FLTest-FVR\DNSResolver\DNSResolver\obj\x86\Debug\DNSResolver.exe
+C:\FLTest-FVR\DNSResolver\DNSResolver\obj\x86\Debug\DNSResolver.pdb
